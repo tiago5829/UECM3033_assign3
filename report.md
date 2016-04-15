@@ -18,6 +18,8 @@ In task 1, we are needed to find the Gauss-Legendre quadrature by implementing t
 
 Explain how you get the weights and nodes used in the Gauss-Legendre quadrature.
 The weights and nodes can be get by importing numpy.polynomial.legendre.leggauss. 
+
+
 ---------------------------------------------------------
 
 ## Task 2 -- Predator-prey model
@@ -51,6 +53,8 @@ From the graphs shown above, there were just a minor changed in the ouput when t
 
 Is the system of ODE sensitive to initial condition? Explain.
 No, the system of ODE is not sensitive to initial condition. If the system of ODE is sensitive, the small amount change of starting value will cause the large changes is output. So, from the graphs, we can observed that the changes of output is very minor. 
+
+
 -----------------------------------
 
 <sup>last modified: 15 April 2016</sup>
