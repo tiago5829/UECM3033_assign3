@@ -36,7 +36,7 @@ When the y0 is 0.11, y1 is 1.0.
 
 
 ![Graph of Prey-Predator against Year(2).png](Graph of Prey-Predator against Year(2).png)
-![Graph of Predator against Prey(2).png](Graph of Predator against Prey(2))
+![Graph of Predator against Prey(2).png](Graph of Predator against Prey(2).png)
 
 Is the system of ODE sensitive to initial condition? Explain.
 
