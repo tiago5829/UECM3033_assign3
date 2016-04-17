@@ -25,7 +25,7 @@ plt.ylabel("Prey-Predator(y) ");
 plt.plot(t, y[:,0], label='prey', color="b")
 plt.plot(t, y[:,1], label='predator', color="r")
 plt.title('Prey-Predator against Year')
-plt.savefig("Graph of y1 and y0 against t")
+plt.savefig("Graph of Prey-Predator against Year")
 plt.grid()
 plt.show()
 
@@ -35,7 +35,7 @@ ax2.plot(y[:,0], y[:,1])
 plt.xlabel("Prey (y0)")
 plt.ylabel("Predator (y1)");
 plt.title('Predator against Prey')
-plt.savefig("Graph of y1 against y0")
+plt.savefig("Graph of Predator against Prey")
 plt.grid()
 plt.show()
 
@@ -52,7 +52,7 @@ plt.ylabel("Prey-Predator(y) ");
 plt.plot(t, y2[:,0], label='prey', color="b")
 plt.plot(t, y2[:,1], label='predator', color="r")
 plt.title('Prey-Predator against Year(2)')
-plt.savefig("Graph of y1 and y0 against t 2")
+plt.savefig("Graph of Prey-Predator against Year(2)")
 plt.grid()
 plt.show()
 
@@ -62,6 +62,6 @@ ax4.plot(y2[:,0], y2[:,1])
 plt.xlabel("Prey (y0)")
 plt.ylabel("Predator (y1)");
 plt.title('Predator against Prey(2)')
-plt.savefig("Graph of y1 against y0 2")
+plt.savefig("Graph of Predator against Prey(2)")
 plt.grid()
 plt.show()
